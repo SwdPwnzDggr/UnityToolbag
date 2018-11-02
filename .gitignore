@@ -3,7 +3,11 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Pp]ackages/
 Assets/AssetStoreTools*
+Assets/[Pp]lugins/
+*steam_api64.dll
+*steam_appid.txt
 
 # Visual Studio cache directory
 .vs/
